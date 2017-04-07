@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+#teReoID{
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+}
+
+#translationID{
+  font-family: 'Cutive Mono', monospace;
+}
